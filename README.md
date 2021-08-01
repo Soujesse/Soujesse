@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Soujesse
+- 👀 I’m interested in web developpement 
+- 🌱 I’m currently learning html/css and Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : soujesse123@gmail.com
